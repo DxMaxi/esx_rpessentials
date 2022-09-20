@@ -1,0 +1,46 @@
+English:
+
+Here is a resource core for a Roleplay server
+the core contains the following resources:
+
+#1 Binoculars
+#2 calmai
+#3 damaged
+#4 degats
+#5 explo
+#6 hudcomponents
+#7 ignore
+#8 noshuff
+#9 point
+#10 removeentities
+#11 vehcontrol.lua
+#12 vehiclepush
+#13 water
+#14 weapondemage
+#15 wweapdrop
+
+in the config.lua file in the root folder you have a list to add vehicles to the blacklist
+
+
+Francais:
+
+Voici un core de ressource pour un serveur Roleplay
+le core contien les ressource suivent:
+
+#1 Binoculars
+#2 calmai
+#3 damaged
+#4 degats
+#5 explo
+#6 hudcomponents
+#7 ignore
+#8 noshuff
+#9 point
+#10 removeentities
+#11 vehcontrol.lua
+#12 vehiclepush
+#13 water
+#14 weapondemage
+#15 wweapdrop
+
+dans le fichier config.lua dans le dossier racine vous avez une list pour ajouter des vehicule en black liste
